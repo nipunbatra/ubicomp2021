@@ -5,7 +5,6 @@ title: Ubiquitous Computing 2021
 description: CS 691
 ---
 
-# Ubiquitous Computing
 
 > "The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it." -- Mark Weiser
 <figure>
@@ -22,7 +21,8 @@ description: CS 691
 *   Instructor: Nipun Batra (nipun.batra@iitgn.ac.in)
 *   Teaching Assistants:  NA
 *   Course Timings: Monday, Wednesday, Thursday (3 PM to 4 PM)  
-*   MS Teams code: dr1od52 
+*   MS Teams code: 1e8m3aq 
+* Please join using the above MS Teams link. There is no other way to join our lectures without joining the above link.  
 
 
 
