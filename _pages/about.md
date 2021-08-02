@@ -6,7 +6,12 @@ description: CS 691
 ---
 
 # Ubiquitous Computing
+
+> "The most profound technologies are those that disappear. They weave themselves into the fabric of everyday life until they are indistinguishable from it." -- Mark Weiser
+<figure>
 <img src="https://images.unsplash.com/photo-1596236100223-f3c656de3038?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=4350&q=80" alt="drawing" width="100%"/>
+<figcaption>Image Courtesy Unsplash</figcaption>
+</figure>
 
 ![]()
 
