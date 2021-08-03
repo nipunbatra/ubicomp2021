@@ -52,6 +52,9 @@ The students will gain practical experience in developing sensing systems in dif
 - Practical experience in developing and conducting experiments for ubiquitous systems.
 - Practical experience in critically evaluating scientific literature in ubiquitous computing.
 
+## Important links
+
+
 
 [Course FAQ, grading policy](https://docs.google.com/document/d/1b5tH20Dlv0JePa0QclL5TpgcPWX3Eu-QEHak1rSUecI/edit): You have comment access, please comment for more details
 
