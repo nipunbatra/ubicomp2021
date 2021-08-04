@@ -16,9 +16,10 @@ description: "Education is what remains after one has forgotten what one has lea
     - Final presentation and demo: 20
     - Report: 5
 - Paper reading, critiquing: 40 
-    - Presentation: 20 
+    - Presentation: 15 
     - Advocate: 10
     - Devil’s advocate:  10
+    - Note taking: 5
 
 
 ## Paper reading
